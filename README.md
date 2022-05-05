@@ -1,10 +1,13 @@
 # Lista de Certificados dos cursos realizados em 2022
 
 ### Iniciativa:
+![image](https://user-images.githubusercontent.com/97065934/166847684-933c3598-44be-4198-8a5b-97e7430e91b6.png)
 ![codai-logo](https://user-images.githubusercontent.com/97065934/164336205-ff8ea929-da54-4ef5-af7a-9e6d1efcda33.png)
 ![udemy](https://user-images.githubusercontent.com/97065934/164338725-c0d747a1-afe8-43ee-a141-42a72feed9d3.png)
 ![dio](https://user-images.githubusercontent.com/97065934/164338842-38486851-e18b-44a7-a293-4c5acd852e80.jpg)
 ![image](https://user-images.githubusercontent.com/97065934/165979501-ed9c019f-77b7-4a28-b44a-9a9f6ab088d8.png)
+
+
 
 
 
